@@ -1,0 +1,96 @@
+html {
+    font-size: 10px;
+  }
+  
+  body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  
+  #main {
+    background-color: gray;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #top {
+    background-color: #f2f0ec;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  #img-div {
+    padding: 20px 0;
+  }
+  
+  #image {
+    width: 75%;
+  }
+  
+  #img-caption {
+    padding: 20px 0;
+  }
+  
+  #info-div {
+    background-color: #e6e1d7;
+    margin: 0px;
+    padding: 50px 40px 50px 40px;
+  }
+  
+  .info {
+    text-align: center;
+    font-size: 2.8rem;
+    font-weight: bold;
+  }
+  
+  h2 {
+    font-size: 2.8rem;
+  }
+  
+  #career-div {
+    background-color: #dad2c1;
+    padding: 50px 40px 30px 40px;
+  }
+  
+  #career-div ul {
+    max-width: 400px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+    font-size: 1.8rem;
+  }
+  
+  #career-div li {
+    margin: 20px 0;
+  }
+  
+  #movies-div {
+    background-color: #c7baa0;
+    padding: 50px 40px 30px 40px;
+    font-weight: bold;
+  }
+  
+  #movies-div ul {
+    list-style-type: none;
+  }
+  
+  #movies-div li {
+    font-size: 1.6rem;
+    margin: 50px 0;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
